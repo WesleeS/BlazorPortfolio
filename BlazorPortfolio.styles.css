@@ -25,7 +25,7 @@ h1[b-66ujcfb06v], h2[b-66ujcfb06v], h3[b-66ujcfb06v] {
     flex-direction: row;
 }
 /* /Pages/AcademicTranscript.razor.rz.scp.css */
-p[b-ulisylizyd],li[b-ulisylizyd] {
+p[b-ulisylizyd],li[b-ulisylizyd],td[b-ulisylizyd] {
     line-height: 1.4;
     max-width: 650px;
     color: #D3D3f3;
@@ -35,10 +35,14 @@ p[b-ulisylizyd],li[b-ulisylizyd] {
     font-weight: 300;
 }
 
-h1[b-ulisylizyd], h2[b-ulisylizyd], h3[b-ulisylizyd] {
+h1[b-ulisylizyd], h2[b-ulisylizyd], h3[b-ulisylizyd], th[b-ulisylizyd] {
     color: #A5A8EA;
     line-height: 1.4;
 }
+
+tr:nth-child(even)[b-ulisylizyd] {
+    background-color: #44405C;
+  }
 
 .codelangs[b-ulisylizyd] {
     line-height: 1.4;
