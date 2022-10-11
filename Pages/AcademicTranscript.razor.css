@@ -1,4 +1,4 @@
-p,li {
+p,li,td {
     line-height: 1.4;
     max-width: 650px;
     color: #D3D3f3;
@@ -8,10 +8,14 @@ p,li {
     font-weight: 300;
 }
 
-h1, h2, h3 {
+h1, h2, h3, th {
     color: #A5A8EA;
     line-height: 1.4;
 }
+
+tr:nth-child(even) {
+    background-color: #44405C;
+  }
 
 .codelangs {
     line-height: 1.4;
