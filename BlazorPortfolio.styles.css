@@ -24,6 +24,32 @@ h1[b-66ujcfb06v], h2[b-66ujcfb06v], h3[b-66ujcfb06v] {
     flex: 1;
     flex-direction: row;
 }
+/* /Pages/AcademicTranscript.razor.rz.scp.css */
+p[b-ulisylizyd],li[b-ulisylizyd] {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #D3D3f3;
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Open Sans", Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+h1[b-ulisylizyd], h2[b-ulisylizyd], h3[b-ulisylizyd] {
+    color: #A5A8EA;
+    line-height: 1.4;
+}
+
+.codelangs[b-ulisylizyd] {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #212121;
+    padding: 0 10px;
+    font-size: 18px;
+    display: inline-flex;
+    flex: 1;
+    flex-direction: row;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-17m5lm77zv] {
     position: relative;
