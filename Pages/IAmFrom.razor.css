@@ -1,0 +1,25 @@
+p,li {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #D3D3f3;
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Open Sans", Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    color: #A5A8EA;
+    line-height: 1.4;
+}
+
+.codelangs {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #212121;
+    padding: 0 10px;
+    font-size: 18px;
+    display: inline-flex;
+    flex: 1;
+    flex-direction: row;
+}
