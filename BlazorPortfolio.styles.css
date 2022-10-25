@@ -54,6 +54,32 @@ tr:nth-child(even)[b-ulisylizyd] {
     flex: 1;
     flex-direction: row;
 }
+/* /Pages/IAmFrom.razor.rz.scp.css */
+p[b-yjskduervt],li[b-yjskduervt] {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #D3D3f3;
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Open Sans", Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+h1[b-yjskduervt], h2[b-yjskduervt], h3[b-yjskduervt] {
+    color: #A5A8EA;
+    line-height: 1.4;
+}
+
+.codelangs[b-yjskduervt] {
+    line-height: 1.4;
+    max-width: 650px;
+    color: #212121;
+    padding: 0 10px;
+    font-size: 18px;
+    display: inline-flex;
+    flex: 1;
+    flex-direction: row;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-17m5lm77zv] {
     position: relative;
