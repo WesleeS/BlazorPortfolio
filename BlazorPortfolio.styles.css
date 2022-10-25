@@ -70,15 +70,16 @@ h1[b-yjskduervt], h2[b-yjskduervt], h3[b-yjskduervt] {
     line-height: 1.4;
 }
 
-.codelangs[b-yjskduervt] {
-    line-height: 1.4;
-    max-width: 650px;
-    color: #212121;
-    padding: 0 10px;
-    font-size: 18px;
-    display: inline-flex;
+.poemContainer[b-yjskduervt] {
     flex: 1;
     flex-direction: row;
+}
+
+.collageLeft[b-yjskduervt] {
+    float: left
+}
+.collageRight[b-yjskduervt] {
+    float: right
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-17m5lm77zv] {
