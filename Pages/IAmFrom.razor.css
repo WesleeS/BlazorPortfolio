@@ -13,13 +13,14 @@ h1, h2, h3 {
     line-height: 1.4;
 }
 
-.codelangs {
-    line-height: 1.4;
-    max-width: 650px;
-    color: #212121;
-    padding: 0 10px;
-    font-size: 18px;
-    display: inline-flex;
+.poemContainer {
     flex: 1;
     flex-direction: row;
+}
+
+.collageLeft {
+    float: left
+}
+.collageRight {
+    float: right
 }
