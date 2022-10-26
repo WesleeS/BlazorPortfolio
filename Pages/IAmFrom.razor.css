@@ -27,6 +27,6 @@ h1, h2, h3 {
     flex: 1
 }
 .poem {
-    flex:2;
-    justify-content: center;
+    flex: 1;
+    justify-content: center
 }
