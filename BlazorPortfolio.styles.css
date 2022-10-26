@@ -76,10 +76,15 @@ h1[b-yjskduervt], h2[b-yjskduervt], h3[b-yjskduervt] {
 }
 
 .collageLeft[b-yjskduervt] {
-    float: left
+    float: left;
+    flex: 1
 }
 .collageRight[b-yjskduervt] {
-    float: right
+    float: right;
+    flex: 1
+}
+.poem[b-yjskduervt] {
+    flex:2
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-17m5lm77zv] {
