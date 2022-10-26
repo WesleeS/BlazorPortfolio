@@ -19,8 +19,13 @@ h1, h2, h3 {
 }
 
 .collageLeft {
-    float: left
+    float: left;
+    flex: 1
 }
 .collageRight {
-    float: right
+    float: right;
+    flex: 1
+}
+.poem {
+    flex:2
 }
