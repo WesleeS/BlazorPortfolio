@@ -71,8 +71,8 @@ h1[b-yjskduervt], h2[b-yjskduervt], h3[b-yjskduervt] {
 }
 
 .poemContainer[b-yjskduervt] {
-    flex: 1;
-    flex-direction: row;
+    display: flex;
+    flex-direction: row
 }
 
 .collageLeft[b-yjskduervt] {
@@ -84,7 +84,8 @@ h1[b-yjskduervt], h2[b-yjskduervt], h3[b-yjskduervt] {
     flex: 1
 }
 .poem[b-yjskduervt] {
-    flex:2
+    flex:2;
+    justify-content: center;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-17m5lm77zv] {
