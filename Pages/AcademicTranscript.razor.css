@@ -17,13 +17,16 @@ tr:nth-child(even) {
     background-color: #44405C;
   }
 
-.codelangs {
-    line-height: 1.4;
-    max-width: 650px;
-    color: #212121;
-    padding: 0 10px;
-    font-size: 18px;
-    display: inline-flex;
+.semesterSet{
+    display:flex;
+    column-gap: 15px;
+}
+
+.autumnSem {
+    float:left;
     flex: 1;
-    flex-direction: row;
+}
+.springSem {
+    float: right;
+    flex: 1;
 }
