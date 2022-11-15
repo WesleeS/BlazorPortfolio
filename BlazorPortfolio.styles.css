@@ -44,15 +44,18 @@ tr:nth-child(even)[b-ulisylizyd] {
     background-color: #44405C;
   }
 
-.codelangs[b-ulisylizyd] {
-    line-height: 1.4;
-    max-width: 650px;
-    color: #212121;
-    padding: 0 10px;
-    font-size: 18px;
-    display: inline-flex;
+.semesterSet[b-ulisylizyd]{
+    display:flex;
+    column-gap: 15px;
+}
+
+.autumnSem[b-ulisylizyd] {
+    float:left;
     flex: 1;
-    flex-direction: row;
+}
+.springSem[b-ulisylizyd] {
+    float: right;
+    flex: 1;
 }
 /* /Pages/IAmFrom.razor.rz.scp.css */
 p[b-yjskduervt],li[b-yjskduervt] {
