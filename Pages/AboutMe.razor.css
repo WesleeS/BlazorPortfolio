@@ -8,6 +8,10 @@ p,li {
     font-weight: 300;
 }
 
+b {
+    font-weight: bold;
+}
+
 h1, h2, h3 {
     color: #A5A8EA;
     line-height: 1.4;
